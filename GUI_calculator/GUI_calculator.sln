@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_calculator", "GUI_calculator.csproj", "{58F91C93-8A3B-4797-982E-37C51A3A72AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calc_algo", "..\Calc_algo\Calc_algo.csproj", "{FEF7C66D-4D3E-40AC-8C9B-90117318850E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "..\TicTacToe\TicTacToe.csproj", "{B4A28191-A8AA-4992-ADE1-02848AB6DB53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58F91C93-8A3B-4797-982E-37C51A3A72AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F91C93-8A3B-4797-982E-37C51A3A72AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F91C93-8A3B-4797-982E-37C51A3A72AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F91C93-8A3B-4797-982E-37C51A3A72AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF7C66D-4D3E-40AC-8C9B-90117318850E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF7C66D-4D3E-40AC-8C9B-90117318850E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF7C66D-4D3E-40AC-8C9B-90117318850E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF7C66D-4D3E-40AC-8C9B-90117318850E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A28191-A8AA-4992-ADE1-02848AB6DB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A28191-A8AA-4992-ADE1-02848AB6DB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A28191-A8AA-4992-ADE1-02848AB6DB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A28191-A8AA-4992-ADE1-02848AB6DB53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8BA1F15-224F-41C9-A8B8-1D3DF9DCC386}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\2020_first_sem\Homework\GUI_calculator\bin\Debug\GUI_calculator.exe.config
+C:\2020_first_sem\Homework\GUI_calculator\bin\Debug\GUI_calculator.exe
+C:\2020_first_sem\Homework\GUI_calculator\bin\Debug\GUI_calculator.pdb
+C:\2020_first_sem\Homework\GUI_calculator\obj\Debug\GUI_calculator.csprojAssemblyReference.cache
+C:\2020_first_sem\Homework\GUI_calculator\obj\Debug\GUI_calculator.Form1.resources
+C:\2020_first_sem\Homework\GUI_calculator\obj\Debug\GUI_calculator.Properties.Resources.resources
+C:\2020_first_sem\Homework\GUI_calculator\obj\Debug\GUI_calculator.csproj.GenerateResource.cache
+C:\2020_first_sem\Homework\GUI_calculator\obj\Debug\GUI_calculator.csproj.CoreCompileInputs.cache
+C:\2020_first_sem\Homework\GUI_calculator\obj\Debug\GUI_calculator.exe
+C:\2020_first_sem\Homework\GUI_calculator\obj\Debug\GUI_calculator.pdb
